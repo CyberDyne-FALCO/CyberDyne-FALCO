@@ -1,0 +1,4 @@
+CyberDyne has been the longest running CIS Club since 2014. Originating as the Academics, Research & Development Division of the old Gamers' Club (2012-2015), created by Randy White in Spring 2014. After Randy transferred, hardware integration was implemented afterwards. The Chubot Project began in Fall 2014, but didn't quite get far due to the Gamers' Club Collapse the following year. The Chubot Project has been continued through CyberDyne beginning in Spring 2016. 
+
+The Chubot is a ground-based drone that's automated. It's purpose is to play a game of tag in a maze.
+The control system consists 
