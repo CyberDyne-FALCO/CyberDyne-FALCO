@@ -1,0 +1,5 @@
+Welcome to the github section for the Visual Basic Programming Workshops of CyberDyne. This workshop section is modeled after the concepts taught in the classes CIS 001: Intro to Computer Science and CIS 015: Programming in Visual Basic.NET which are under the Computer Informational Science Department of Solano College. 
+
+
+DISCLAIMER: This workshop is not the actual CIS class(es), and these will not grant you the grades to CIS 001 and/or CIS 015.
+All codes here are properties of the CyberDyne's Founder and Guardian President Geff Freire, who is also a lab tutor for the CIS Department, and shall not be used for anyone else's class credits. 
